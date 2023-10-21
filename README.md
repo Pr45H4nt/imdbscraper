@@ -24,6 +24,19 @@ Welcome! This project is about scraping Sci-Fi movie data from IMDb using the st
 
 The scraped movie data will be stored in a CSV format. Open the file with spreadsheet software like Microsoft Excel or Google Sheets to review and analyze the movie details.
 
+## 📋 Data Columns
+
+The scraper extracts the following columns:
+- TITLE
+- RELEASED YEAR
+- RATING
+- GENRES
+- LENGTH
+- CERTIFICATION
+- DIRECTORS
+- WRITERS
+- STARS
+
 ## 🔍 Challenges Faced
 
 - **Complex HTML Structure:** IMDb's website layout is known for its intricacies. We took the challenge head-on and designed our spider to fetch data precisely.
